@@ -35,10 +35,6 @@ html{
   font-family: 'Carmen Sans Regular';
 }
 
-h1{
-  font-family: 'Carmen Sans ExtraBold';
-}
-
 /*MAIN*/
 
 main{
@@ -62,6 +58,7 @@ main section{
 }
 
 h1{
+  font-family: 'Carmen Sans ExtraBold';
   margin-top: 0;
   font-size: 200%;
 }
